@@ -1,4 +1,3 @@
-```markdown
 # FakeDataGenerator
 
 Este projeto tem como objetivo gerar arquivos CSV com dados falsos para simulação de usuários, endereços e recargas. É útil para testes de sistemas, desenvolvimento e automação de processos em ambientes de testes.
@@ -143,4 +142,3 @@ João Silva;12345678901;d01a14bf-df13-4314-b5c4-c9d91fa6d1ab;572328123456;PENDIN
 ## Contato
 
 Caso tenha dúvidas, sugestões ou queira colaborar, entre em contato pelo e-mail: **antoniogaraujo63@email.com**.
-```
